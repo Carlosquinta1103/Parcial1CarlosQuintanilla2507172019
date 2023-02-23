@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="62dp"
             android:ems="10"
-            android:hint="Ingreso su peso en libras"
+            android:hint="Ingreso su peso en kilogramos"
             android:inputType="textPersonName" />
 
         <TextView
@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="67dp"
             android:ems="10"
-            android:hint="Ingrese su altura"
+            android:hint="Ingrese su altura en Metros"
             android:inputType="textPersonName" />
 
         <TextView

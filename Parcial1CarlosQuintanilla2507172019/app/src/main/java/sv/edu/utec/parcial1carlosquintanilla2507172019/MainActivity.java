@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }
                 else {
-                    txresp.setText("incorrecto");
+                    txresp.setText("contraseña y usuario no son correctos");
                 }
             }
         });
